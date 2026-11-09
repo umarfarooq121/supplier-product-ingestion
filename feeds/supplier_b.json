@@ -1,0 +1,29 @@
+{
+    "supplier": "supplier_b",
+    "products": [
+        {
+            "product_code": "B-001",
+            "name": "Wireless Mouse",
+            "product_category": "Accessories",
+            "unit_price": 18.50,
+            "currency_code": "USD",
+            "quantity_available": 35
+        },
+        {
+            "product_code": "B-002",
+            "name": "27-inch Monitor",
+            "product_category": "Displays",
+            "unit_price": 229.99,
+            "currency_code": "USD",
+            "quantity_available": 12
+        },
+        {
+            "product_code": "B-003",
+            "name": "Laptop Stand",
+            "product_category": "Accessories",
+            "unit_price": 29.00,
+            "currency_code": "USD",
+            "quantity_available": 18
+        }
+    ]
+}
